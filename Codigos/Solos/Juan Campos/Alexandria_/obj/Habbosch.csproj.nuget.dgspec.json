@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria\\Habbosch.csproj": {}
+    "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria_\\Habbosch.csproj": {}
   },
   "projects": {
-    "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria\\Habbosch.csproj": {
+    "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria_\\Habbosch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria\\Habbosch.csproj",
+        "projectUniqueName": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria_\\Habbosch.csproj",
         "projectName": "Habbosch",
-        "projectPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria\\Habbosch.csproj",
+        "projectPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria_\\Habbosch.csproj",
         "packagesPath": "C:\\Users\\Lander\\.nuget\\packages\\",
-        "outputPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria\\obj\\",
+        "outputPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Juan Campos\\Alexandria_\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lander\\AppData\\Roaming\\NuGet\\NuGet.Config"

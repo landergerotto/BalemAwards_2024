@@ -1,0 +1,14 @@
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\bin\Release\net7.0-windows\Habbosch.exe
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\bin\Release\net7.0-windows\Habbosch.deps.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\bin\Release\net7.0-windows\Habbosch.runtimeconfig.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\bin\Release\net7.0-windows\Habbosch.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\bin\Release\net7.0-windows\Habbosch.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\Habbosch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\Habbosch.AssemblyInfoInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\Habbosch.AssemblyInfo.cs
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\Habbosch.csproj.CoreCompileInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\Habbosch.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\refint\Habbosch.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\Habbosch.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\Habbosch.genruntimeconfig.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Juan Campos\Alexandria_\obj\Release\net7.0-windows\ref\Habbosch.dll

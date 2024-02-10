@@ -1,0 +1,14 @@
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\bin\Release\net7.0-windows\alienPersuit.exe
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\bin\Release\net7.0-windows\alienPersuit.deps.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\bin\Release\net7.0-windows\alienPersuit.runtimeconfig.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\bin\Release\net7.0-windows\alienPersuit.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\bin\Release\net7.0-windows\alienPersuit.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\alienPersuit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\alienPersuit.AssemblyInfoInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\alienPersuit.AssemblyInfo.cs
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\alienPersuit.csproj.CoreCompileInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\alienPersuit.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\refint\alienPersuit.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\alienPersuit.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\alienPersuit.genruntimeconfig.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Guilherme Tavares\ETSPersuit_\obj\Release\net7.0-windows\ref\alienPersuit.dll

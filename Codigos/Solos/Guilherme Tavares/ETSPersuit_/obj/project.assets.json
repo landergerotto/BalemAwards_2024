@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Guilherme Tavares\\ETSPersuit\\alienPersuit.csproj",
+      "projectUniqueName": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Guilherme Tavares\\ETSPersuit_\\alienPersuit.csproj",
       "projectName": "alienPersuit",
-      "projectPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Guilherme Tavares\\ETSPersuit\\alienPersuit.csproj",
+      "projectPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Guilherme Tavares\\ETSPersuit_\\alienPersuit.csproj",
       "packagesPath": "C:\\Users\\Lander\\.nuget\\packages\\",
-      "outputPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Guilherme Tavares\\ETSPersuit\\obj\\",
+      "outputPath": "E:\\Codigos\\C#\\Jogos_TDS3\\Codigos\\Solos\\Guilherme Tavares\\ETSPersuit_\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lander\\AppData\\Roaming\\NuGet\\NuGet.Config"
