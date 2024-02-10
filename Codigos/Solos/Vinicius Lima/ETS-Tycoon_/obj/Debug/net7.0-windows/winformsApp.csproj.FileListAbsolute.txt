@@ -1,0 +1,216 @@
+C:\Users\sii5ct\Desktop\winformsApp\bin\Debug\net7.0-windows\winformsApp.exe
+C:\Users\sii5ct\Desktop\winformsApp\bin\Debug\net7.0-windows\winformsApp.deps.json
+C:\Users\sii5ct\Desktop\winformsApp\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+C:\Users\sii5ct\Desktop\winformsApp\bin\Debug\net7.0-windows\winformsApp.dll
+C:\Users\sii5ct\Desktop\winformsApp\bin\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\winformsApp.dll
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\refint\winformsApp.dll
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+C:\Users\sii5ct\Desktop\winformsApp\obj\Debug\net7.0-windows\ref\winformsApp.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\bin\Debug\net7.0-windows\winformsApp.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\bin\Debug\net7.0-windows\winformsApp.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\bin\Debug\net7.0-windows\winformsApp.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\bin\Debug\net7.0-windows\winformsApp.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\winformsApp.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\refint\winformsApp.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\winformsApp.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\2 - Desenvolvimento de Sistemas\3 - Desenvolvimento de Sistemas 2023\01 - Arquivos a serem disponibilizados\Desktop Dev\emptyApp\obj\Debug\net7.0-windows\ref\winformsApp.dll
+C:\Users\sii5ct\Desktop\emptyApp\bin\Debug\net7.0-windows\winformsApp.exe
+C:\Users\sii5ct\Desktop\emptyApp\bin\Debug\net7.0-windows\winformsApp.deps.json
+C:\Users\sii5ct\Desktop\emptyApp\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+C:\Users\sii5ct\Desktop\emptyApp\bin\Debug\net7.0-windows\winformsApp.dll
+C:\Users\sii5ct\Desktop\emptyApp\bin\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\winformsApp.dll
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\refint\winformsApp.dll
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+C:\Users\sii5ct\Desktop\emptyApp\obj\Debug\net7.0-windows\ref\winformsApp.dll
+C:\Users\disrct\Desktop\faustoApp\bin\Debug\net7.0-windows\winformsApp.exe
+C:\Users\disrct\Desktop\faustoApp\bin\Debug\net7.0-windows\winformsApp.deps.json
+C:\Users\disrct\Desktop\faustoApp\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+C:\Users\disrct\Desktop\faustoApp\bin\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\faustoApp\bin\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\refint\winformsApp.dll
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+C:\Users\disrct\Desktop\faustoApp\obj\Debug\net7.0-windows\ref\winformsApp.dll
+C:\Users\disrct\Desktop\tycoon\bin\Debug\net7.0-windows\winformsApp.exe
+C:\Users\disrct\Desktop\tycoon\bin\Debug\net7.0-windows\winformsApp.deps.json
+C:\Users\disrct\Desktop\tycoon\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+C:\Users\disrct\Desktop\tycoon\bin\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\tycoon\bin\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\refint\winformsApp.dll
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+C:\Users\disrct\Desktop\tycoon\obj\Debug\net7.0-windows\ref\winformsApp.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.exe
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.deps.json
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\refint\winformsApp.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\ref\winformsApp.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.exe
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.deps.json
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\refint\winformsApp.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\ref\winformsApp.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CopyComplete
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.exe
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.deps.json
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CopyComplete
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\refint\winformsApp.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.pdb
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\obj\Debug\net7.0-windows\ref\winformsApp.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\disrct\Desktop\Nova pasta (5)\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\disrct\Desktop\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+C:\Users\vinis\OneDrive\Área de Trabalho\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CopyComplete
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.exe
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.deps.json
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.pdb
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Asio.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Core.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Midi.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+E:\Codigos\C#\ETS-Tycoon\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CopyComplete
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.dll
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\refint\winformsApp.dll
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.pdb
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+E:\Codigos\C#\ETS-Tycoon\obj\Debug\net7.0-windows\ref\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.exe
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.deps.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\winformsApp.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Asio.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Core.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Midi.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.csproj.CopyComplete
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\refint\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon\obj\Debug\net7.0-windows\ref\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\winformsApp.exe
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\winformsApp.deps.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\winformsApp.runtimeconfig.json
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\winformsApp.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\NAudio.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\NAudio.Asio.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\NAudio.Core.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\NAudio.Midi.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.csproj.AssemblyReference.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.AssemblyInfoInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.AssemblyInfo.cs
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.csproj.CoreCompileInputs.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.csproj.CopyComplete
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\refint\winformsApp.dll
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.pdb
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\winformsApp.genruntimeconfig.cache
+E:\Codigos\C#\Jogos_TDS3\Codigos\Solos\Vinicius Lima\ETS-Tycoon_\obj\Debug\net7.0-windows\ref\winformsApp.dll

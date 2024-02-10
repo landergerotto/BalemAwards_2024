@@ -1,0 +1,74 @@
+ETS Tycoon
+
+An Engineering Technical School Simulator where your mission is to develop apprentices until excelence training them and making money!
+
+- [x] First room and buttons
+- [x] Buttons turn into structure when clicked
+- [x] Structure become an animated apprentice working when clicked
+- [x] Show Player information (money and gain per second)
+- [x] Structure and apprentice purchase affects money
+- [x] Click on table opens the store
+- [x] Money gains works correctly (per second)
+- [x] Map can be moved using WASD keys
+- [x] Drag and hold to show another parts of the map
+- [x] Drag and hold doesn't work when the mouse is on clickable structures
+- [x] Store show apprentices and have side buttons to change who is on screen
+- [x] Buy button for each apprentice card
+- [x] The selected apprentice on store really goes to the table and affects money based on its values
+- [x] Apprentices are animated when on table
+- [x] Clicking on the store and dragging doesn't move the map
+- [x] Transfer table function to Structure class virtual functions and override on InstructorsTable and future structures
+- [x] Implement instructors
+- [x] Implement Instructors desk and Instructors Store
+- [x] Instructor appear working
+- [x] Instructors boost every apprentice on the room
+- [x] Now it's a clicker
+- [X] Fix sounds and add more SFX 
+- [X] Boss room is the click spot
+- [X] Upgrades store
+- [X] Upgrades that changes click value
+- [X] ClickBox adapts to size of structure
+- [X] Include DTA
+- [X] Intro Screen
+- [X] Add store and configs buttons to the screen
+- [X] Close store button
+- [X] Draw Intro Screen buttons
+- [X] Buy upgrade changes the cursor sprite
+- [X] Animated Cursor
+- [X] Menu screen with buttons working
+- [X] Hover
+- [x] Draw boss room
+- [x] Structures with two apprentices open store cart and buy two at the same time
+- [x] Draw double chair table apprentices working 
+- [x] Split game's constructor into private methods
+- [x] Create a method for click in store item
+- [x] Method for click check
+- [x] Npc goes beep beep 
+- [x] Tutorial / Help
+- [x] Draw workshop structures 9/9
+    - [X] pc_table1
+    - [x] pc_table2
+    - [X] drill
+    - [X] hexagonal_table
+    - [x] kuka
+    - [x] machine1
+    - [x] machine2
+    - [x] machine3
+    - [x] machine4
+- [x] Implement Workshop with structures 
+- [x] Draw new room structures
+    - [x] apprentice_table
+    - [x] Instructors_table
+    - [x] floor
+- [x] Implement new room 
+- [x] Game 98% responsive
+- [ ] Draw workshop apprentices
+- [ ] Settings screen 
+- [ ] Load game screen 
+- [ ] Load game 
+- [ ] Draw Instructors
+- [ ] In game settings screen (Music, Language, ...)
+- [ ] Draw characters from a different angle
+- [ ] Detail each room
+
+- [ ] Done ?/46

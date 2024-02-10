@@ -1,0 +1,662 @@
+[
+  {
+    "Name": "Anabelly Montibeller",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 1,
+    "Salary": 100,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Benhur Feld",
+    "Age": "18",
+    "Img1": "./sprites/apprentice/benhur/benhur1.png",
+    "Img2": "./sprites/apprentice/benhur/benhur2.png",
+    "Gain": 2,
+    "Salary": 200,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Eliana Almeida",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 3,
+    "Salary": 300,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Emyli Quadros",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/emyli/emyli1.png",
+    "Img2": "./sprites/apprentice/emyli/emyli2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Eric Coutinho",
+    "Age": "18",
+    "Img1": "./sprites/apprentice/eric/eric1.png",
+    "Img2": "./sprites/apprentice/eric/eric2.png",
+    "Gain": 5,
+    "Salary": 500,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Felipe Vieira",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/felipe/felipe1.png",
+    "Img2": "./sprites/apprentice/felipe/felipe2.png",
+    "Gain": 6,
+    "Salary": 600,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Guilherme Proença",
+    "Age": "18",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 7,
+    "Salary": 700,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Tavares (Guilherme)",
+    "Age": "18",
+    "Img1": "./sprites/apprentice/tavares/tavares1.png",
+    "Img2": "./sprites/apprentice/tavares/tavares2.png",
+    "Gain": 8,
+    "Salary": 800,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Juan Campos",
+    "Age": "22",
+    "Img1": "./sprites/apprentice/juan/juan1.png",
+    "Img2": "./sprites/apprentice/juan/juan2.png",
+    "Gain": 9,
+    "Salary": 900,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Lander Gerotto",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/lander/lander1.png",
+    "Img2": "./sprites/apprentice/lander/lander2.png",
+    "Gain": 10,
+    "Salary": 1000,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Luis dos Santos",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/luis/luis1.png",
+    "Img2": "./sprites/apprentice/luis/luis2.png",
+    "Gain": 11,
+    "Salary": 1100,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Rosa (Luiz)",
+    "Age": "18",
+    "Img1": "./sprites/apprentice/rosa/rosa1.png",
+    "Img2": "./sprites/apprentice/rosa/rosa2.png",
+    "Gain": 12,
+    "Salary": 1200,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Marcos Henrique",
+    "Age": "20",
+    "Img1": "./sprites/apprentice/marcos/marcos1.png",
+    "Img2": "./sprites/apprentice/marcos/marcos2.png",
+    "Gain": 13,
+    "Salary": 1300,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Mateus Leite",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 14,
+    "Salary": 1400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Maycon Bertulino",
+    "Age": "20",
+    "Img1": "./sprites/apprentice/maycon/maycon1.png",
+    "Img2": "./sprites/apprentice/maycon/maycon2.png",
+    "Gain": 15,
+    "Salary": 1500,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Murilo Socek",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/murilo/murilo1.png",
+    "Img2": "./sprites/apprentice/murilo/murilo2.png",
+    "Gain": 16,
+    "Salary": 1600,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Renato Mendes",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 17,
+    "Salary": 1700,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Vinícius Lima",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/vini/vini1.png",
+    "Img2": "./sprites/apprentice/vini/vini2.png",
+    "Gain": 18,
+    "Salary": 1800,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Andre Luis",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/andre/andre1.png",
+    "Img2": "./sprites/apprentice/andre/andre2.png",
+    "Gain": 1,
+    "Salary": 100,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Andrey",
+    "Age": "18",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 2,
+    "Salary": 200,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Dayne Pacheco",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/dayne/dayne1.png",
+    "Img2": "./sprites/apprentice/dayne/dayne2.png",
+    "Gain": 3,
+    "Salary": 300,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Gabriela Laureano",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/gabriela/gabi1.png",
+    "Img2": "./sprites/apprentice/gabriela/gabi2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Isabelle Janecki",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/isabelle/isabelle1.png",
+    "Img2": "./sprites/apprentice/isabelle/isabelle2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Jéssica Fedalto",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "João Klipell",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/joao/joao1.png",
+    "Img2": "./sprites/apprentice/joao/joao2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "João Carvalho",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/joao_carvalho/joao1.png",
+    "Img2": "./sprites/apprentice/joao_carvalho/joao2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Lorena Falci",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Maria Carolina",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/maria_carolina/maria_carolina1.png",
+    "Img2": "./sprites/apprentice/maria_carolina/maria_carolina2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Maria da Silva",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Maria Selhorst",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Mavi",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/mavi/mavi1.png",
+    "Img2": "./sprites/apprentice/mavi/mavi2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Nilton Moreira",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Saladino (Murylo)",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/murylo/murylo1.png",
+    "Img2": "./sprites/apprentice/murylo/murylo2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Zago (Vitória)",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/zago/zago1.png",
+    "Img2": "./sprites/apprentice/zago/zago2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Yasmin Freitas",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Yasmin Agostinho",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/yasmin_trembulack/yasmin1.png",
+    "Img2": "./sprites/apprentice/yasmin_trembulack/yasmin2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Adrian Gobara",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Amilton Moreira",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Cristian Cardoso",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Eduardo Ribeiro",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Eduardo Sampaio",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Fernando",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Helena",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Ingrid Rocha",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Jaun Diego",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Juliana",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Karlla",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Kauane Menezes",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Mariana Marques",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Matias Zuniga",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Milena Calegari",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Nicole Siqueira",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Sabrina",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Wallace Abreu",
+    "Age": "19",
+    "Img1": "./sprites/apprentice/table/table_apprentice1.png",
+    "Img2": "./sprites/apprentice/table/table_apprentice2.png",
+    "Gain": 4,
+    "Salary": 400,
+    "Type": "Apprentice",
+    "GainType": "C/sec"
+  },
+  {
+    "Name": "Trevisan",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Marcão",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Queila",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Andressa",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Dom",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Fer",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Alisson",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Moll",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Balem",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Fernandinho",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 5,
+    "Salary": 200,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Balem de Ouro",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 20,
+    "Salary": 999,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  },
+  {
+    "Name": "Dom de Ouro",
+    "Age": "24",
+    "Img1": "./sprites/instructors/instructor1.png",
+    "Img2": "./sprites/instructors/instructor2.png",
+    "Gain": 20,
+    "Salary": 999,
+    "Type": "Instructor",
+    "GainType": "Boost"
+  }
+]
